@@ -67,7 +67,7 @@ Gerenciador de Tarefas
 
 ## 🧩 Metodologia
 
-Cada desafio deve ser resolvido primeiro de forma independente, tentando compreender o problema e criar uma estratégia antes de procurar qualquer solução.
+Cada desafio deve ser resolvido primeiro de forma independente, tentando compreender o problema e criar uma estratégia.
 
 ## 🛠️ Tecnologias
 
@@ -75,7 +75,7 @@ Cada desafio deve ser resolvido primeiro de forma independente, tentando compree
 * Node.js
 * Console / Terminal
 
-> Os desafios iniciais não utilizam DOM, interfaces ou frameworks. O foco é desenvolver a lógica e os fundamentos do JavaScript antes de avançar para aplicações interativas.
+
 
 
 
