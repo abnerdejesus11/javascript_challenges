@@ -22,7 +22,7 @@ Os desafios foram desenvolvidos para testar a capacidade de:
 
 A coleção contém **20 desafios**, organizados em ordem crescente de dificuldade.
 
-🔹 01. Calculadora de Operações
+🔹 01. Calculadora de Operações 
 🔹 02. Verificador de Número
 🔹 03. Maior de Três Números
 🔹 04. Conversor de Temperatura
