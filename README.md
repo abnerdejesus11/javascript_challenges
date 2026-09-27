@@ -20,7 +20,7 @@ Os desafios foram desenvolvidos para testar a capacidade de:
 
 ## 🚀 Sobre os desafios
 
-A coleção contém **20 desafios**, organizados em ordem crescente de dificuldade.
+A coleção contém **100** desafios**, organizados em ordem crescente de dificuldade.
 Calculadora de Operações Básicas
 
 **Calculadora de Operações Básicas
