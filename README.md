@@ -23,25 +23,25 @@ Os desafios foram desenvolvidos para testar a capacidade de:
 A coleção contém **20 desafios**, organizados em ordem crescente de dificuldade.
 Calculadora de Operações Básicas
 
-Calculadora de Operações Básicas
+**Calculadora de Operações Básicas
 
-Verificador de Número Par ou Ímpar
+**Verificador de Número Par ou Ímpar
 
-Calculadora de Média de Notas
+**Calculadora de Média de Notas
 
-Contador de Números Positivos e Negativos
+**Contador de Números Positivos e Negativos
 
-Maior e Menor Número de um Array
+**Maior e Menor Número de um Array
 
-Soma de Todos os Elementos de um Array
+**Soma de Todos os Elementos de um Array
 
-Remover Números Duplicados de um Array
+**Remover Números Duplicados de um Array
 
-Carrinho de Compras
+**Carrinho de Compras
 
-Sistema Simples de Banco
+**Sistema Simples de Banco
 
-Agenda de Contactos
+**Agenda de Contactos
 
 E muito mais.
 
