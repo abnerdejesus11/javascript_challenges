@@ -22,6 +22,46 @@ Os desafios foram desenvolvidos para testar a capacidade de:
 
 A coleção contém **20 desafios**, organizados em ordem crescente de dificuldade.
 
+Calculadora de Operações Básicas
+
+Verificador de Número Par ou Ímpar
+
+Calculadora de Média de Notas
+
+Contador de Números Positivos e Negativos
+
+Maior e Menor Número de um Array
+
+Soma de Todos os Elementos de um Array
+
+Remover Números Duplicados de um Array
+
+Inverter uma String
+
+Contador de Vogais
+
+Verificador de Palíndromo
+
+Lista de Compras com Arrays
+
+Cadastro de Alunos com Objetos
+
+Sistema de Produtos e Preços
+
+Filtro de Pessoas por Idade
+
+Ordenação de Notas de Alunos
+
+Contador de Frequência de Palavras
+
+Carrinho de Compras
+
+Sistema Simples de Banco
+
+Agenda de Contactos
+
+Sistema de Gerenciamento de Tarefas
+
 Os primeiros desafios trabalham conceitos fundamentais da linguagem. Conforme a sequência avança, os problemas começam a combinar diferentes conceitos e se aproximam de situações encontradas em aplicações reais.
 
 ### 📚 Conteúdos praticados
