@@ -3,7 +3,7 @@
 
 
     const  parouImpar =() => {
-        let numero = "";
+        let numero = 2;
         if( typeof numero !== "number"){
             
          return console.log("DEGITE UM NUMERO")   
