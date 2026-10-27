@@ -9,36 +9,37 @@
 
 const classificadorDeNotas = nota => {
 
-    if (nota < 0 || nota > 20) {
+     if (nota < 0 || nota > 20) {
 
         return `NOTA INVALIDA DEGITE UMA NOTA VALIDA`
 
     }
     else{
 
-        if (nota >= 0 && nota < 8) {
+        if( nota >= 0 && nota <= 9){
 
-        return `NOTA INSUFICIENTE ==> ${nota}`
+             return `NOTA INSUFICIENTE ${nota}`
 
+        }
+            else if(nota > 9 && nota <= 13){
+
+             return `NOTA SUFICIENTE ${nota}`
+
+        }
+          else if(nota > 13 && nota <= 17){
+
+             return `NOTA BOA ${nota}`
+
+        }
+         else if(nota > 17 && nota <= 20){
+
+             return `NOTA EXCELENTE ${nota}`
+
+        }
     }
-        else if(nota >= 9 && nota <= 12) {
-
-        return `NOTA SUFICIENTE ==> ${nota}`
-
-    }
-        else if(nota >= 12 && nota <= 16) {
-
-        return `NOTA BOA ==> ${nota}`
-
-    }
-        else if(nota >= 17 && nota <= 20) {
-
-        return `NOTA EXCELENTE ==> ${nota}`
-
-    }
-
-    }
+   
+   
 
 }
-   const resultado = classificadorDeNotas(100)
+   const resultado = classificadorDeNotas(16)
     console.log(resultado)
