@@ -9,7 +9,14 @@
 
 const classificadorDeNotas = nota => {
 
+    if (typeof nota !== "number") {
+    return "A nota deve ser um número";
+}
+
+
      if (nota < 0 || nota > 20) {
+
+        
 
         return `NOTA INVALIDA DEGITE UMA NOTA VALIDA`
 
@@ -41,5 +48,7 @@ const classificadorDeNotas = nota => {
    
 
 }
-   const resultado = classificadorDeNotas(16)
+   const resultado = classificadorDeNotas(18)
     console.log(resultado)
+
+  
