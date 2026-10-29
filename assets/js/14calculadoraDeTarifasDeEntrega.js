@@ -34,6 +34,6 @@ const CalculadoraDeTarifas = valorDeCompra =>{
 
 
 }
-const resultado = CalculadoraDeTarifas(1500)
+const resultado = CalculadoraDeTarifas(15000)
 
 console.log(resultado)
