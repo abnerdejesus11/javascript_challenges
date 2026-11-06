@@ -1,5 +1,5 @@
 # javascript_challenges
-# 🧠 JavaScript Challenges
+![JavaScript](https://shields.io)
 
 Repositório dedicado à resolução de desafios práticos de **JavaScript**, com foco no desenvolvimento de lógica de programação, capacidade de resolução de problemas e domínio dos fundamentos da linguagem.
 
