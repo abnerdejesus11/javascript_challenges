@@ -1,5 +1,7 @@
 # javascript_challenges
 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript&logoColor=black)
+
 Repositório dedicado à resolução de desafios práticos de **JavaScript**, com foco no desenvolvimento de lógica de programação, capacidade de resolução de problemas e domínio dos fundamentos da linguagem.
 
 ## 🎯 Objetivo
